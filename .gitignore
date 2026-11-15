@@ -30,7 +30,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-# Prevent publishing local secrets
 .env
 .env.*
 !.env.example
